@@ -223,5 +223,5 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 
 15. Feedback Mechanism
 
-16. Chatbot 
+16. Chatbot Feature
     
